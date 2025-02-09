@@ -252,7 +252,8 @@ function App() {
 
     return (
       <Container>
-    <Title>💰 AI-Powered Debt Repayment Planner</Title>
+        <Title>🧭 Fortuna's Compass</Title>
+    <h2>💰 An AI-Powered Debt Repayment Planner</h2>
 
     <h3>Enter Your Financial Details</h3>
     <Input type="number" placeholder="💵 Monthly Income ($)" value={income} onChange={(e) => setIncome(e.target.value)} />
