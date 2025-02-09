@@ -8,4 +8,3 @@ export NVM_DIR="$HOME/.nvm"
 export NODE_OPTIONS=--openssl-legacy-provider
 
 
-
